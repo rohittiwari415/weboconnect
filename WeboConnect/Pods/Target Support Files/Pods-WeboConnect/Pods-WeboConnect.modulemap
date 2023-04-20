@@ -1,0 +1,6 @@
+framework module Pods_WeboConnect {
+  umbrella header "Pods-WeboConnect-umbrella.h"
+
+  export *
+  module * { export * }
+}

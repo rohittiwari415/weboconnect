@@ -7,23 +7,51 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1835BD3529F0265D00A8402B /* LoginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1835BD3429F0265D00A8402B /* LoginVC.swift */; };
+		1835BD3729F04D1900A8402B /* Montserrat-ExtraBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 1835BD3629F04D1900A8402B /* Montserrat-ExtraBold.otf */; };
+		1835BD3929F04DDD00A8402B /* Inter-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1835BD3829F04DDD00A8402B /* Inter-Regular.ttf */; };
+		1835BD3B29F04DE900A8402B /* Montserrat-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1835BD3A29F04DE900A8402B /* Montserrat-Medium.ttf */; };
+		1865CAEF29F06CF100AE9E6B /* PopUpOTPVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1865CAEE29F06CF100AE9E6B /* PopUpOTPVC.swift */; };
+		18A8FD7129F0D8D30031C1A1 /* OTPVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A8FD7029F0D8D30031C1A1 /* OTPVC.swift */; };
+		18A8FD7329F0F0F20031C1A1 /* CreateProfileVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A8FD7229F0F0F20031C1A1 /* CreateProfileVC.swift */; };
 		18BF18B029EFCC8700C38615 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18BF18AF29EFCC8700C38615 /* AppDelegate.swift */; };
 		18BF18B229EFCC8700C38615 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18BF18B129EFCC8700C38615 /* SceneDelegate.swift */; };
-		18BF18B429EFCC8700C38615 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18BF18B329EFCC8700C38615 /* ViewController.swift */; };
+		18BF18B429EFCC8700C38615 /* GetStartedVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18BF18B329EFCC8700C38615 /* GetStartedVC.swift */; };
 		18BF18B729EFCC8700C38615 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18BF18B529EFCC8700C38615 /* Main.storyboard */; };
 		18BF18B929EFCC8B00C38615 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18BF18B829EFCC8B00C38615 /* Assets.xcassets */; };
 		18BF18BC29EFCC8B00C38615 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18BF18BA29EFCC8B00C38615 /* LaunchScreen.storyboard */; };
+		18BF18C729F012C700C38615 /* Montserrat-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 18BF18C629F012C700C38615 /* Montserrat-Bold.ttf */; };
+		18BF18C929F01A4500C38615 /* Inter Extra Bold 800.otf in Resources */ = {isa = PBXBuildFile; fileRef = 18BF18C829F01A4500C38615 /* Inter Extra Bold 800.otf */; };
+		18BF18CB29F01A9700C38615 /* Inter Medium 500.otf in Resources */ = {isa = PBXBuildFile; fileRef = 18BF18CA29F01A9700C38615 /* Inter Medium 500.otf */; };
+		18BF18CD29F01CAB00C38615 /* FontsFree-Net-Montserrat-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 18BF18CC29F01CAB00C38615 /* FontsFree-Net-Montserrat-SemiBold.ttf */; };
+		18E83B6C29F05F580090C9D5 /* TextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18E83B6B29F05F580090C9D5 /* TextField.swift */; };
+		C69B731EADFF975CD766468F /* Pods_WeboConnect.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 678658901CED047D40D8FC97 /* Pods_WeboConnect.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1835BD3429F0265D00A8402B /* LoginVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginVC.swift; sourceTree = "<group>"; };
+		1835BD3629F04D1900A8402B /* Montserrat-ExtraBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-ExtraBold.otf"; sourceTree = "<group>"; };
+		1835BD3829F04DDD00A8402B /* Inter-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Regular.ttf"; sourceTree = "<group>"; };
+		1835BD3A29F04DE900A8402B /* Montserrat-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Medium.ttf"; sourceTree = "<group>"; };
+		1865CAEE29F06CF100AE9E6B /* PopUpOTPVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopUpOTPVC.swift; sourceTree = "<group>"; };
+		18A8FD7029F0D8D30031C1A1 /* OTPVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OTPVC.swift; sourceTree = "<group>"; };
+		18A8FD7229F0F0F20031C1A1 /* CreateProfileVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateProfileVC.swift; sourceTree = "<group>"; };
 		18BF18AC29EFCC8700C38615 /* WeboConnect.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeboConnect.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18BF18AF29EFCC8700C38615 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		18BF18B129EFCC8700C38615 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		18BF18B329EFCC8700C38615 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		18BF18B329EFCC8700C38615 /* GetStartedVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetStartedVC.swift; sourceTree = "<group>"; };
 		18BF18B629EFCC8700C38615 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		18BF18B829EFCC8B00C38615 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		18BF18BB29EFCC8B00C38615 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		18BF18BD29EFCC8B00C38615 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18BF18C629F012C700C38615 /* Montserrat-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Bold.ttf"; sourceTree = "<group>"; };
+		18BF18C829F01A4500C38615 /* Inter Extra Bold 800.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter Extra Bold 800.otf"; sourceTree = "<group>"; };
+		18BF18CA29F01A9700C38615 /* Inter Medium 500.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter Medium 500.otf"; sourceTree = "<group>"; };
+		18BF18CC29F01CAB00C38615 /* FontsFree-Net-Montserrat-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FontsFree-Net-Montserrat-SemiBold.ttf"; sourceTree = "<group>"; };
+		18E83B6B29F05F580090C9D5 /* TextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextField.swift; sourceTree = "<group>"; };
+		678658901CED047D40D8FC97 /* Pods_WeboConnect.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_WeboConnect.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9CF7F6AB0C63014225F6AC59 /* Pods-WeboConnect.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WeboConnect.release.xcconfig"; path = "Target Support Files/Pods-WeboConnect/Pods-WeboConnect.release.xcconfig"; sourceTree = "<group>"; };
+		9E5D0DD0815A26FF25AC7D69 /* Pods-WeboConnect.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WeboConnect.debug.xcconfig"; path = "Target Support Files/Pods-WeboConnect/Pods-WeboConnect.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,17 +59,40 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C69B731EADFF975CD766468F /* Pods_WeboConnect.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		061F8010A7F04A07FF92A2D1 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				678658901CED047D40D8FC97 /* Pods_WeboConnect.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		1835BD3329F0260C00A8402B /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				18BF18B329EFCC8700C38615 /* GetStartedVC.swift */,
+				1835BD3429F0265D00A8402B /* LoginVC.swift */,
+				1865CAEE29F06CF100AE9E6B /* PopUpOTPVC.swift */,
+				18A8FD7029F0D8D30031C1A1 /* OTPVC.swift */,
+				18A8FD7229F0F0F20031C1A1 /* CreateProfileVC.swift */,
+			);
+			path = ViewController;
+			sourceTree = "<group>";
+		};
 		18BF18A329EFCC8700C38615 = {
 			isa = PBXGroup;
 			children = (
 				18BF18AE29EFCC8700C38615 /* WeboConnect */,
 				18BF18AD29EFCC8700C38615 /* Products */,
+				9C6EF5A8CDF7C5600AAAACBE /* Pods */,
+				061F8010A7F04A07FF92A2D1 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -56,15 +107,48 @@
 		18BF18AE29EFCC8700C38615 /* WeboConnect */ = {
 			isa = PBXGroup;
 			children = (
+				18E83B6A29F05F260090C9D5 /* AppUtils */,
+				1835BD3329F0260C00A8402B /* ViewController */,
+				18BF18C529F012A400C38615 /* Fonts */,
 				18BF18AF29EFCC8700C38615 /* AppDelegate.swift */,
 				18BF18B129EFCC8700C38615 /* SceneDelegate.swift */,
-				18BF18B329EFCC8700C38615 /* ViewController.swift */,
 				18BF18B529EFCC8700C38615 /* Main.storyboard */,
 				18BF18B829EFCC8B00C38615 /* Assets.xcassets */,
 				18BF18BA29EFCC8B00C38615 /* LaunchScreen.storyboard */,
 				18BF18BD29EFCC8B00C38615 /* Info.plist */,
 			);
 			path = WeboConnect;
+			sourceTree = "<group>";
+		};
+		18BF18C529F012A400C38615 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				18BF18C629F012C700C38615 /* Montserrat-Bold.ttf */,
+				18BF18CC29F01CAB00C38615 /* FontsFree-Net-Montserrat-SemiBold.ttf */,
+				1835BD3A29F04DE900A8402B /* Montserrat-Medium.ttf */,
+				18BF18C829F01A4500C38615 /* Inter Extra Bold 800.otf */,
+				1835BD3629F04D1900A8402B /* Montserrat-ExtraBold.otf */,
+				18BF18CA29F01A9700C38615 /* Inter Medium 500.otf */,
+				1835BD3829F04DDD00A8402B /* Inter-Regular.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		18E83B6A29F05F260090C9D5 /* AppUtils */ = {
+			isa = PBXGroup;
+			children = (
+				18E83B6B29F05F580090C9D5 /* TextField.swift */,
+			);
+			path = AppUtils;
+			sourceTree = "<group>";
+		};
+		9C6EF5A8CDF7C5600AAAACBE /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				9E5D0DD0815A26FF25AC7D69 /* Pods-WeboConnect.debug.xcconfig */,
+				9CF7F6AB0C63014225F6AC59 /* Pods-WeboConnect.release.xcconfig */,
+			);
+			path = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -74,9 +158,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 18BF18C029EFCC8B00C38615 /* Build configuration list for PBXNativeTarget "WeboConnect" */;
 			buildPhases = (
+				247EA35886A8B911D78B7D57 /* [CP] Check Pods Manifest.lock */,
 				18BF18A829EFCC8700C38615 /* Sources */,
 				18BF18A929EFCC8700C38615 /* Frameworks */,
 				18BF18AA29EFCC8700C38615 /* Resources */,
+				AD8EE9D92C4CAA94A26B3FE1 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -125,21 +211,75 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1835BD3729F04D1900A8402B /* Montserrat-ExtraBold.otf in Resources */,
+				1835BD3929F04DDD00A8402B /* Inter-Regular.ttf in Resources */,
+				18BF18C729F012C700C38615 /* Montserrat-Bold.ttf in Resources */,
+				18BF18C929F01A4500C38615 /* Inter Extra Bold 800.otf in Resources */,
 				18BF18BC29EFCC8B00C38615 /* LaunchScreen.storyboard in Resources */,
 				18BF18B929EFCC8B00C38615 /* Assets.xcassets in Resources */,
+				1835BD3B29F04DE900A8402B /* Montserrat-Medium.ttf in Resources */,
 				18BF18B729EFCC8700C38615 /* Main.storyboard in Resources */,
+				18BF18CD29F01CAB00C38615 /* FontsFree-Net-Montserrat-SemiBold.ttf in Resources */,
+				18BF18CB29F01A9700C38615 /* Inter Medium 500.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		247EA35886A8B911D78B7D57 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-WeboConnect-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		AD8EE9D92C4CAA94A26B3FE1 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-WeboConnect/Pods-WeboConnect-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-WeboConnect/Pods-WeboConnect-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-WeboConnect/Pods-WeboConnect-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		18BF18A829EFCC8700C38615 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				18BF18B429EFCC8700C38615 /* ViewController.swift in Sources */,
+				18BF18B429EFCC8700C38615 /* GetStartedVC.swift in Sources */,
 				18BF18B029EFCC8700C38615 /* AppDelegate.swift in Sources */,
+				1835BD3529F0265D00A8402B /* LoginVC.swift in Sources */,
+				18A8FD7129F0D8D30031C1A1 /* OTPVC.swift in Sources */,
+				1865CAEF29F06CF100AE9E6B /* PopUpOTPVC.swift in Sources */,
+				18E83B6C29F05F580090C9D5 /* TextField.swift in Sources */,
+				18A8FD7329F0F0F20031C1A1 /* CreateProfileVC.swift in Sources */,
 				18BF18B229EFCC8700C38615 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -282,6 +422,7 @@
 		};
 		18BF18C129EFCC8B00C38615 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9E5D0DD0815A26FF25AC7D69 /* Pods-WeboConnect.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -310,6 +451,7 @@
 		};
 		18BF18C229EFCC8B00C38615 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9CF7F6AB0C63014225F6AC59 /* Pods-WeboConnect.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;

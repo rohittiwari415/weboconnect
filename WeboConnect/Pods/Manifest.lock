@@ -1,0 +1,16 @@
+PODS:
+  - SKCountryPicker (2.0.0)
+
+DEPENDENCIES:
+  - SKCountryPicker
+
+SPEC REPOS:
+  trunk:
+    - SKCountryPicker
+
+SPEC CHECKSUMS:
+  SKCountryPicker: 9d4921503cad7224a14a150802bb71228adbd90f
+
+PODFILE CHECKSUM: 0940b2bdcc9a07a22f5605676f01c76bd0624f1b
+
+COCOAPODS: 1.11.2
